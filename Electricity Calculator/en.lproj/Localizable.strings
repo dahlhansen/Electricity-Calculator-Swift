@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Frederik_Hansen_A3_INFO10229
+
+  Created by Frederik Dahl Hansen on 07/08/2023.
+  
+*/
+
+"Usage Details" ;
+"On-peak usage in kWh" ;
+"Off-peak usage in kWh" ;
+"Mid-peak usage in kWh" ;
+"Consumption Charges" ;
+"On-Peak Charges : $%.2f" ;
+"Off-Peak Charges : $%.2f" ;
+"Mid-Peak Charges : $%.2f" ;
+"Total Consumption Charges: $%.2f" ;
+"RRegulatory Charges" ;
+"HST (13 percent): $%.2f" ;
+"Provincial Rebate (8 percent): $%.2f" ;
+"Total Regulatory Charges : $%.2f" ;
+"Bill Amount" = "Net Bill Amount : $%.2f" ;
